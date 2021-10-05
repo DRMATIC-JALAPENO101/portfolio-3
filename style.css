@@ -1,0 +1,28 @@
+h1 {
+    color: orange;
+}
+
+.header {
+    background-color: rgb(52, 175, 175);
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p, h2 {
+    text-align: center
+}
+body{
+  background-color: rgb(178, 178, 170);
+}
